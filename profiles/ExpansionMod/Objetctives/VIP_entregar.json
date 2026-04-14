@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 28,
+    "ID": 1,
+    "ObjectiveType": 9,
+    "ObjectiveText": "O sobrevivente precisa chegar vivo ao local marcado, leve com segurança pelos perigos do caminho.",
+    "TimeLimit": 180,
+    "Active": 1,
+    "Position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Escolte Elvira",
+    "ShowDistance": 1,
+    "CanLootAI": 0,
+    "NPCLoadoutFile": "QUEST_Elvira",
+    "NPCClassName": "eAI_SurvivorM_Lewis",
+    "NPCName": "Elvira Khabibullina"
+}
