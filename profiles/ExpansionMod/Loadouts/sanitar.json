@@ -21,7 +21,7 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
+                            "Min": 0.7,
                             "Max": 1.0,
                             "Zone": ""
                         }
@@ -46,7 +46,7 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
+                            "Min": 0.7,
                             "Max": 1.0,
                             "Zone": ""
                         }
@@ -71,7 +71,7 @@
                     },
                     "Health": [
                         {
-                            "Min": 0.699999988079071,
+                            "Min": 0.7,
                             "Max": 1.0,
                             "Zone": ""
                         }
@@ -85,103 +85,19 @@
         },
         {
             "SlotName": "MASK",
-            "Items": [
-                {
-                    "ClassName": "",
-                    "Include": "",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ]
+            "Items": []
         },
         {
             "SlotName": "Vest",
-            "Items": [
-                {
-                    "ClassName": "",
-                    "Include": "",
-                    "Chance": 1.0,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ]
+            "Items": []
         },
         {
             "SlotName": "Hips",
-            "Items": [
-                {
-                    "ClassName": "",
-                    "Include": "",
-                    "Chance": 0.20000000298023225,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ]
+            "Items": []
         },
         {
             "SlotName": "Melee",
-            "Items": [
-                {
-                    "ClassName": "",
-                    "Include": "",
-                    "Chance": 0.05000000074505806,
-                    "Quantity": {
-                        "Min": 0.0,
-                        "Max": 0.0
-                    },
-                    "Health": [
-                        {
-                            "Min": 0.699999988079071,
-                            "Max": 1.0,
-                            "Zone": ""
-                        }
-                    ],
-                    "InventoryAttachments": [],
-                    "InventoryCargo": [],
-                    "ConstructionPartsBuilt": [],
-                    "Sets": []
-                }
-            ]
+            "Items": []
         }
     ],
     "InventoryCargo": [],
@@ -211,7 +127,7 @@
                             "Health": [],
                             "InventoryAttachments": [
                                 {
-                                    "SlotName": "",
+                                    "SlotName": "magazine",
                                     "Items": [
                                         {
                                             "ClassName": "Mag_Vikhr_30Rnd",
@@ -226,11 +142,16 @@
                                             "InventoryCargo": [],
                                             "ConstructionPartsBuilt": [],
                                             "Sets": []
-                                        },
+                                        }
+                                    ]
+                                },
+                                {
+                                    "SlotName": "weaponOptics",
+                                    "Items": [
                                         {
                                             "ClassName": "KobraOptic",
                                             "Include": "",
-                                            "Chance": 0.20000000298023225,
+                                            "Chance": 0.2,
                                             "Quantity": {
                                                 "Min": 0.0,
                                                 "Max": 0.0
@@ -238,7 +159,7 @@
                                             "Health": [],
                                             "InventoryAttachments": [
                                                 {
-                                                    "SlotName": "",
+                                                    "SlotName": "BatteryD",
                                                     "Items": [
                                                         {
                                                             "ClassName": "Battery9V",
@@ -256,7 +177,10 @@
                                                         }
                                                     ]
                                                 }
-                                            ]
+                                            ],
+                                            "InventoryCargo": [],
+                                            "ConstructionPartsBuilt": [],
+                                            "Sets": []
                                         }
                                     ]
                                 }
@@ -300,7 +224,7 @@
                 {
                     "ClassName": "Mag_Vikhr_30Rnd",
                     "Include": "",
-                    "Chance": 0.15000000596046449,
+                    "Chance": 0.15,
                     "Quantity": {
                         "Min": 0.0,
                         "Max": 0.0
@@ -339,7 +263,7 @@
                             "Health": [],
                             "InventoryAttachments": [
                                 {
-                                    "SlotName": "",
+                                    "SlotName": "magazine",
                                     "Items": [
                                         {
                                             "ClassName": "Mag_P1_8Rnd",
@@ -364,7 +288,10 @@
                         }
                     ]
                 }
-            ]
+            ],
+            "InventoryCargo": [],
+            "ConstructionPartsBuilt": [],
+            "Sets": []
         }
     ]
 }
