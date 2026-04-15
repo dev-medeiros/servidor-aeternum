@@ -90,7 +90,7 @@
 			ALL SUPPORTED CONDITIONS YOU CAN FOUND HERE: https://github.com/TerjeBruoygard/TerjeModsScripting/blob/master/Wiki/en/Conditions/README.md
 -->
 <Loadouts>
-	<Loadout id="survivor" displayName="Default survivor">
+	<Loadout id="andarilho" displayName="Andarilho">
 		<Items>
 			<Selector type="SINGLE" displayName="BODY">
 				<Item classname="TShirt_Beige" health="0.6:0.8" />
@@ -132,6 +132,138 @@
 			<Item classname="BandageDressing" disinfected="1" />
 		</Items>
 	</Loadout>
+
+	
+	<Loadout id="aprendiz" displayName="Aprendiz">
+		<Items>
+			<Selector type="SINGLE" displayName="BODY">
+				<Item classname="TShirt_Beige" health="0.6:0.8" />
+				<Item classname="TShirt_Black" health="0.6:0.8" />
+				<Item classname="TShirt_Blue" health="0.6:0.8" />
+				<Item classname="TShirt_Green" health="0.6:0.8" />
+				<Item classname="TShirt_OrangeWhiteStripes" health="0.6:0.8" />
+				<Item classname="TShirt_Red" health="0.6:0.8" />
+				<Item classname="TShirt_RedBlackStripes" health="0.6:0.8" />
+				<Item classname="TShirt_White" health="0.6:0.8" />
+				<Item classname="TShirt_Grey" health="0.6:0.8" />
+			</Selector>
+			<Selector type="SINGLE" displayName="LEGS">
+				<Item classname="CanvasPantsMidi_Beige" health="0.6:0.8" />
+				<Item classname="CanvasPantsMidi_Blue" health="0.6:0.8" />
+				<Item classname="CanvasPantsMidi_Grey" health="0.6:0.8" />
+				<Item classname="CanvasPantsMidi_Red" health="0.6:0.8" />
+				<Item classname="CanvasPantsMidi_Violet" health="0.6:0.8" />
+			</Selector>
+			<Selector type="SINGLE" displayName="SHOES">
+				<Item classname="AthleticShoes_Black" />
+				<Item classname="AthleticShoes_Blue" />
+				<Item classname="AthleticShoes_Brown" />
+				<Item classname="AthleticShoes_Green" />
+				<Item classname="AthleticShoes_Grey" />
+			</Selector>
+			<Selector type="RANDOM">
+				<Item classname="Chemlight_Red" />
+				<Item classname="Chemlight_Green" />
+				<Item classname="Chemlight_Yellow" />
+				<Item classname="Chemlight_White" />
+			</Selector>
+			<Selector type="RANDOM">
+				<Item classname="Plum" />
+				<Item classname="Apple" />
+				<Item classname="Pear" />
+				<Item classname="Tomato" />
+			</Selector>
+			<Item classname="BandageDressing" disinfected="1" />
+		</Items>
+	</Loadout>
+	
+	<Loadout id="especialista" displayName="Especialista">
+		<Items>
+			<Selector type="SINGLE" displayName="BODY">
+				<Item classname="TShirt_Beige" health="0.6:0.8" />
+				<Item classname="TShirt_Black" health="0.6:0.8" />
+				<Item classname="TShirt_Blue" health="0.6:0.8" />
+				<Item classname="TShirt_Green" health="0.6:0.8" />
+				<Item classname="TShirt_OrangeWhiteStripes" health="0.6:0.8" />
+				<Item classname="TShirt_Red" health="0.6:0.8" />
+				<Item classname="TShirt_RedBlackStripes" health="0.6:0.8" />
+				<Item classname="TShirt_White" health="0.6:0.8" />
+				<Item classname="TShirt_Grey" health="0.6:0.8" />
+			</Selector>
+			<Selector type="SINGLE" displayName="LEGS">
+				<Item classname="CanvasPantsMidi_Beige" health="0.6:0.8" />
+				<Item classname="CanvasPantsMidi_Blue" health="0.6:0.8" />
+				<Item classname="CanvasPantsMidi_Grey" health="0.6:0.8" />
+				<Item classname="CanvasPantsMidi_Red" health="0.6:0.8" />
+				<Item classname="CanvasPantsMidi_Violet" health="0.6:0.8" />
+			</Selector>
+			<Selector type="SINGLE" displayName="SHOES">
+				<Item classname="AthleticShoes_Black" />
+				<Item classname="AthleticShoes_Blue" />
+				<Item classname="AthleticShoes_Brown" />
+				<Item classname="AthleticShoes_Green" />
+				<Item classname="AthleticShoes_Grey" />
+			</Selector>
+			<Selector type="RANDOM">
+				<Item classname="Chemlight_Red" />
+				<Item classname="Chemlight_Green" />
+				<Item classname="Chemlight_Yellow" />
+				<Item classname="Chemlight_White" />
+			</Selector>
+			<Selector type="RANDOM">
+				<Item classname="Plum" />
+				<Item classname="Apple" />
+				<Item classname="Pear" />
+				<Item classname="Tomato" />
+			</Selector>
+			<Item classname="BandageDressing" disinfected="1" />
+		</Items>
+	</Loadout>
+
+	
+	<Loadout id="veterano" displayName="Veterano">
+		<Items>
+			<Selector type="SINGLE" displayName="BODY">
+				<Item classname="TShirt_Beige" health="0.6:0.8" />
+				<Item classname="TShirt_Black" health="0.6:0.8" />
+				<Item classname="TShirt_Blue" health="0.6:0.8" />
+				<Item classname="TShirt_Green" health="0.6:0.8" />
+				<Item classname="TShirt_OrangeWhiteStripes" health="0.6:0.8" />
+				<Item classname="TShirt_Red" health="0.6:0.8" />
+				<Item classname="TShirt_RedBlackStripes" health="0.6:0.8" />
+				<Item classname="TShirt_White" health="0.6:0.8" />
+				<Item classname="TShirt_Grey" health="0.6:0.8" />
+			</Selector>
+			<Selector type="SINGLE" displayName="LEGS">
+				<Item classname="CanvasPantsMidi_Beige" health="0.6:0.8" />
+				<Item classname="CanvasPantsMidi_Blue" health="0.6:0.8" />
+				<Item classname="CanvasPantsMidi_Grey" health="0.6:0.8" />
+				<Item classname="CanvasPantsMidi_Red" health="0.6:0.8" />
+				<Item classname="CanvasPantsMidi_Violet" health="0.6:0.8" />
+			</Selector>
+			<Selector type="SINGLE" displayName="SHOES">
+				<Item classname="AthleticShoes_Black" />
+				<Item classname="AthleticShoes_Blue" />
+				<Item classname="AthleticShoes_Brown" />
+				<Item classname="AthleticShoes_Green" />
+				<Item classname="AthleticShoes_Grey" />
+			</Selector>
+			<Selector type="RANDOM">
+				<Item classname="Chemlight_Red" />
+				<Item classname="Chemlight_Green" />
+				<Item classname="Chemlight_Yellow" />
+				<Item classname="Chemlight_White" />
+			</Selector>
+			<Selector type="RANDOM">
+				<Item classname="Plum" />
+				<Item classname="Apple" />
+				<Item classname="Pear" />
+				<Item classname="Tomato" />
+			</Selector>
+			<Item classname="BandageDressing" disinfected="1" />
+		</Items>
+	</Loadout>
+	
 	<Loadout id="multiselect" displayName="Multiselect & Timeout">
 		<Items>
 			<Item classname="PrisonerCap" health="0.5" />
