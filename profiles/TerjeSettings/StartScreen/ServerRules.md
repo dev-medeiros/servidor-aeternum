@@ -1,18 +1,19 @@
-# Heading 1
+# SEJA BEM-VINDO(A) A AETERNUM!
+Aeternum é um servidor com dificuldade Extrema e Hardcore, com modalidade PvX (Zonas seguras, Zonas neutras, Zonas de PvP - Rotativas). Cada escolha afeta o mapa, comércio, diplomacia, guerras. Explore, construa seu legado e descubra até onde vai o preço do poder em um mundo que nunca dorme. 
 Read more about markdown syntax:
 [https://www.markdownguide.org/basic-syntax](https://www.markdownguide.org/basic-syntax)
 
-## Heading 2
+## SEJA BEM-VINDO(A) A AETERNUM!
 This is a paragraph.
 
-### Heading 3
+### SEJA BEM-VINDO(A) A AETERNUM!
 This is a paragraph.
 
 ```
-This is a monospace text
+SEJA BEM-VINDO(A) A AETERNUM
 ```
 
-> This is a text block
+> SEJA BEM-VINDO(A) A AETERNUM
 
 ---
 
