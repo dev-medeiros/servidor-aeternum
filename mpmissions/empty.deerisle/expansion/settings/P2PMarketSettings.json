@@ -1,8 +1,8 @@
 {
     "m_Version": 3,
     "Enabled": 1,
-    "MaxListingTime": 691200,
-    "MaxListings": 30,
+    "MaxListingTime": 2592000,
+    "MaxListings": 50,
     "ListingOwnerDiscountPercent": 70,
     "ListingPricePercent": 30,
     "ExcludedClassNames": [
@@ -508,6 +508,6 @@
             ]
         }
     ],
-    "SalesDepositTime": 691200,
+    "SalesDepositTime": 2592000,
     "DisallowUnpersisted": 0
 }
