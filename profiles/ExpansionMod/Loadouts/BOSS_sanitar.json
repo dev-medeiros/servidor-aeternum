@@ -657,10 +657,10 @@
                         {
                             "ClassName": "TerjeInjectorErytromixelin",
                             "Include": "",
-                            "Chance": 0.3,
+                            "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 1.0
+                                "Min": 1.0,
+                                "Max": 5.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -671,10 +671,10 @@
                         {
                             "ClassName": "TerjeInjectorErytromixelin",
                             "Include": "",
-                            "Chance": 0.3,
+                            "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 1.0
+                                "Min": 1.0,
+                                "Max": 5.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -685,10 +685,10 @@
                         {
                             "ClassName": "TerjeInjectorErytromixelin",
                             "Include": "",
-                            "Chance": 0.8,
+                            "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 2.0
+                                "Min": 1.0,
+                                "Max": 5.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -699,10 +699,10 @@
                         {
                             "ClassName": "TerjeInjectorTopoizomeraza",
                             "Include": "",
-                            "Chance": 0.3,
+                            "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 1.0
+                                "Min": 1.0,
+                                "Max": 5.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -713,10 +713,10 @@
                         {
                             "ClassName": "TerjeAmpouleImipenem",
                             "Include": "",
-                            "Chance": 0.3,
+                            "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 1.0
+                                "Min": 1.0,
+                                "Max": 5.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -727,10 +727,10 @@
                         {
                             "ClassName": "TerjeAmpouleFlemoclav",
                             "Include": "",
-                            "Chance": 0.3,
+                            "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 1.0
+                                "Min": 1.0,
+                                "Max": 5.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -741,10 +741,10 @@
                         {
                             "ClassName": "TerjeInjectorAmoxiclav",
                             "Include": "",
-                            "Chance": 0.3,
+                            "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 1.0
+                                "Min": 1.0,
+                                "Max": 5.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -755,10 +755,10 @@
                         {
                             "ClassName": "TerjeAmpouleVaxicam",
                             "Include": "",
-                            "Chance": 0.1,
+                            "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 1.0
+                                "Min": 1.0,
+                                "Max": 5.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -769,10 +769,10 @@
                         {
                             "ClassName": "TerjeAmpouleVaxicam",
                             "Include": "",
-                            "Chance": 0.1,
+                            "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 1.0
+                                "Min": 1.0,
+                                "Max": 5.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -783,10 +783,10 @@
                         {
                             "ClassName": "TerjeAmpouleHeptral",
                             "Include": "",
-                            "Chance": 0.3,
+                            "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 1.0
+                                "Min": 1.0,
+                                "Max": 5.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -797,10 +797,10 @@
                         {
                             "ClassName": "TerjeInjectorStomaproxidal",
                             "Include": "",
-                            "Chance": 0.3,
+                            "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 1.0
+                                "Min": 1.0,
+                                "Max": 5.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -811,10 +811,10 @@
                         {
                             "ClassName": "AntiChemInjector",
                             "Include": "",
-                            "Chance": 0.1,
+                            "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 1.0
+                                "Min": 1.0,
+                                "Max": 5.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -825,10 +825,10 @@
                         {
                             "ClassName": "TerjeAmpouleNeirocetal",
                             "Include": "",
-                            "Chance": 0.8,
+                            "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 1.0
+                                "Min": 1.0,
+                                "Max": 5.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -841,8 +841,8 @@
                             "Include": "",
                             "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 1.0
+                                "Min": 1.0,
+                                "Max": 5.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -855,8 +855,8 @@
                             "Include": "",
                             "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 1.0
+                                "Min": 1.0,
+                                "Max": 5.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -867,10 +867,10 @@
                         {
                             "ClassName": "TerjeAmpouleImipenem",
                             "Include": "",
-                            "Chance": 0.3,
+                            "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 1.0
+                                "Min": 1.0,
+                                "Max": 5.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -881,10 +881,10 @@
                         {
                             "ClassName": "TerjeInjectorTopoizomeraza",
                             "Include": "",
-                            "Chance": 0.3,
+                            "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 1.0
+                                "Min": 1.0,
+                                "Max": 5.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -895,10 +895,10 @@
                         {
                             "ClassName": "TerjeInjectorPromidol",
                             "Include": "",
-                            "Chance": 0.5,
+                            "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 1.0
+                                "Min": 1.0,
+                                "Max": 5.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -909,10 +909,10 @@
                         {
                             "ClassName": "TerjePillsIbuprofen",
                             "Include": "",
-                            "Chance": 0.5,
+                            "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 1.0
+                                "Min": 1.0,
+                                "Max": 5.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -923,10 +923,10 @@
                         {
                             "ClassName": "TerjeAmpouleMorphine",
                             "Include": "",
-                            "Chance": 0.3,
+                            "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 1.0
+                                "Min": 1.0,
+                                "Max": 5.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -937,10 +937,10 @@
                         {
                             "ClassName": "TerjeAmpouleNovacaine",
                             "Include": "",
-                            "Chance": 0.5,
+                            "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 1.0
+                                "Min": 1.0,
+                                "Max": 5.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -951,10 +951,10 @@
                         {
                             "ClassName": "TerjeAmpouleAmitriptyline",
                             "Include": "",
-                            "Chance": 0.3,
+                            "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 1.0
+                                "Min": 1.0,
+                                "Max": 5.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -965,10 +965,10 @@
                         {
                             "ClassName": "TerjeInjectorAmfitalicyne",
                             "Include": "",
-                            "Chance": 0.3,
+                            "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 1.0
+                                "Min": 1.0,
+                                "Max": 5.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -979,10 +979,10 @@
                         {
                             "ClassName": "TerjeAmpouleCarboxyme",
                             "Include": "",
-                            "Chance": 0.3,
+                            "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 1.0
+                                "Min": 1.0,
+                                "Max": 5.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -993,10 +993,10 @@
                         {
                             "ClassName": "TerjeInjectorRadioprotector",
                             "Include": "",
-                            "Chance": 0.3,
+                            "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 1.0
+                                "Min": 1.0,
+                                "Max": 5.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -1007,10 +1007,10 @@
                         {
                             "ClassName": "DisinfectantSpray",
                             "Include": "",
-                            "Chance": 0.9,
+                            "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 1.0
+                                "Min": 1.0,
+                                "Max": 5.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
@@ -1021,10 +1021,10 @@
                         {
                             "ClassName": "TerjeSalveFinalgon",
                             "Include": "",
-                            "Chance": 0.9,
+                            "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 1.0
+                                "Min": 1.0,
+                                "Max": 5.0
                             },
                             "Health": [],
                             "InventoryAttachments": [],
