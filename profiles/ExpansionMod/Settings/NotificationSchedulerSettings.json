@@ -1,17 +1,17 @@
 {
     "m_Version": 2,
-    "Enabled": 0,
-    "UTC": 0,
+    "Enabled": 1,
+    "UTC": -3,
     "UseMissionTime": 0,
     "Notifications": [
         {
-            "Hour": 22,
-            "Minute": 0,
+            "Hour": 18,
+            "Minute": 40,
             "Second": 0,
-            "Title": "Notification Schedule Test 1",
-            "Text": "Lorem ipsum dolor sit amet",
+            "Title": "Fique atento",
+            "Text": "Algo precisa ser feito",
             "Icon": "Info",
-            "Color": ""
+            "Color": "ff6347ff"
         },
         {
             "Hour": 22,
