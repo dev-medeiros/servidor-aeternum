@@ -11,27 +11,27 @@
     "ShowPlayerFaction": 0,
     "RuleCategories": [
         {
-            "CategoryName": "General",
+            "CategoryName": "Geral",
             "Rules": [
                 {
                     "RuleParagraph": "1.1.",
-                    "RuleText": "Insults, discrimination, extremist and racist statements or texts are taboo."
+                    "RuleText": "Insultos, discriminação e declarações ou textos extremistas e racistas são proibidos."
                 },
                 {
                     "RuleParagraph": "1.2.",
-                    "RuleText": "We reserve the right to exclude people from the server who share extremist or racist ideas or who clearly disturb the server harmony."
+                    "RuleText": "Reservamo-nos o direito de excluir do servidor pessoas que compartilhem ideias extremistas ou racistas, ou que claramente prejudiquem a harmonia do servidor."
                 },
                 {
                     "RuleParagraph": "1.3.",
-                    "RuleText": "Decisions of the team members, both the supporter and the admin are to be accepted without discussion."
+                    "RuleText": "As decisões dos membros da equipe, tanto do suporte quanto dos administradores, devem ser aceitas sem discussão."
                 },
                 {
                     "RuleParagraph": "1.4.",
-                    "RuleText": "Provocations and toxic behavior will not be tolerated and punished! Be friendly to fellow players and your team, both in chat and in voice!"
+                    "RuleText": "Provocações e comportamento tóxico não serão tolerados e serão punidos! Seja respeitoso com outros jogadores e com a equipe, tanto no chat quanto no voz."
                 },
                 {
                     "RuleParagraph": "1.5.",
-                    "RuleText": "The use of external programs, scripts and cheats is not tolerated and is punished with a permanent exclusion."
+                    "RuleText": "O uso de programas externos, scripts e cheats não é tolerado e será punido com banimento permanente."
                 }
             ]
         }
