@@ -1,0 +1,30 @@
+modded class PlayerBase
+{
+    void ExpansionTweaks_DecreaseReputationByPercent(float percent)
+    {
+        percent = Math.Clamp(percent, 0, 100);
+        int loss = (int)Math.Round(Math.AbsFloat(Expansion_GetReputation()) * (percent / 100));
+        if (loss > 0)
+        {
+            Expansion_DecreaseReputation(loss);
+        }
+    }
+}
+
+modded class ExpansionHardlineModule
+{
+    // attempt to handle hierarchy without duplicating decrease in rep
+    override protected void HandlePlayerDeath(PlayerBase victim)
+    {
+        int repToRemove = GetExpansionSettings().GetHardline().ReputationLossOnDeath;
+        
+        if (repToRemove)
+        {
+            victim.ExpansionTweaks_DecreaseReputationByPercent(repToRemove);
+            GetExpansionSettings().GetHardline().ReputationLossOnDeath = 0;
+        }
+
+        super.HandlePlayerDeath(victim);
+        GetExpansionSettings().GetHardline().ReputationLossOnDeath = repToRemove; // reset
+    }
+}
