@@ -5,18 +5,18 @@
     "EnableTransportChat": 1,
     "EnableExpansionChat": 1,
     "ChatColors": {
-        "SystemChatColor": "EB45EBFF",
-        "AdminChatColor": "FF392BFF",
-        "GlobalChatColor": "58C3FFFF",
-        "DirectChatColor": "FFFFFFFF",
-        "TransportChatColor": "FFCE09FF",
-        "PartyChatColor": "0AFA7AFF",
-        "TransmitterChatColor": "F9FF49FF",
-        "StatusMessageColor": "4B77BEFF",
-        "ActionMessageColor": "F7CA18FF",
-        "FriendlyMessageColor": "2ECC71FF",
-        "ImportantMessageColor": "F22613FF",
-        "DefaultMessageColor": "FFFFFFFF"
-    },
+    "SystemChatColor": "A9A9A9FF",
+    "AdminChatColor": "FF5555FF",
+    "GlobalChatColor": "55AAFFFF",
+    "DirectChatColor": "FFFFFFFF",
+    "TransportChatColor": "FFCC66FF",
+    "PartyChatColor": "55FFAAFF",
+    "TransmitterChatColor": "FFFF66FF",
+    "StatusMessageColor": "87CEEBFF",
+    "ActionMessageColor": "FFD700FF",
+    "FriendlyMessageColor": "32CD32FF",
+    "ImportantMessageColor": "FF3333FF",
+    "DefaultMessageColor": "FFFFFFFF"
+},
     "BlacklistedWords": []
 }
