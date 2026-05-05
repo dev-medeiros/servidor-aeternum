@@ -1142,8 +1142,20 @@
 "----- GEMS | FreezeMining - Mineração ABAIXO -----": 0,
         "Stone": 1,
         "SmallStone": 1,
+        
+        "FreezeBar_copper": 2,
+        "FreezeNode_copper": 2,
+        "FreezeNugget_copper": 2,
         "Freezestone_copper": 2,
+        
+        "FreezeBar_tin": 2,
+        "FreezeNode_tin": 2,
+        "FreezeNugget_tin": 2,
         "Freezestone_tin": 2,
+        
+        "FreezeBar_iron": 3,
+        "FreezeNode_iron": 3,
+        "FreezeNugget_iron": 3,
         "Freezestone_iron": 3,
         
         "FreezeBar_silver": 4,
@@ -1156,6 +1168,9 @@
         "FreezeNugget_gold": 5,
         "Freezestone_gold": 5,
         
+        "FreezeBar_uranium": 7,
+        "FreezeNode_uranium": 7,
+        "FreezeNugget_uranium": 7,
         "Freezestone_uranium": 7,
         
         "FreezeGem_Amber": 5,
@@ -1194,8 +1209,30 @@
         "FreezeNode_JadeGemNode": 6,
         
         "FreezeGem_Turquoise": 7,
+        "FreezeGem_Turquoise_Cut": 7,
+        "FreezeGem_Turquoise_Flawed": 7,
+        "FreezeGem_Turquoise_Perfect": 7,
+        "FreezeGem_Turquoise_Standard": 7,
+        "FreezeNode_TurquoiseGemNode": 7,
+        
         "FreezeGem_Ruby": 7,
+        "FreezeGem_Ruby_Cut": 7,
+        "FreezeGem_Ruby_Flawed": 7,
+        "FreezeGem_Ruby_Perfect": 7,
+        "FreezeGem_Ruby_Standard": 7,
+        "FreezeNode_RubyGemNode": 7,
+        
+        "FreezeBar_Ruby_Flawed": 7,
+        "FreezeBar_Ruby_Perfect": 7,
+        "FreezeBar_Ruby_Standard": 7,
+        
         "FreezeGem_FancyColourDiamond": 8,
+        "FreezeGem_FancyColourDiamond_Cut": 8,
+        "FreezeGem_FancyColourDiamond_Flawed": 8,
+        "FreezeGem_FancyColourDiamond_Perfect": 8,
+        "FreezeGem_FancyColourDiamond_Standard": 8,
+        "FreezeNode_FancyColourDiamondGemNode": 8,
+        
 "----- GEMS | FreezeMining - Mineração ACIMA -----": 0,
         "ULTIMA-----LINHA": 0
     }
